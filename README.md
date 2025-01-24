@@ -20,5 +20,3 @@ Sinta-se à vontade para explorar e contribuir!
 ---
 
 Feito com ❤️ por andrvss.
-
-```
