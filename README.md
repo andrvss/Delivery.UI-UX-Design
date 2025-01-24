@@ -1,13 +1,23 @@
-<h1 align="center"> Gina's Delivery </h1>
+# 📂 Repo de Testes
 
-<p align="center">
-Gina's Delivery é um aplicativo de delivery, com cardápio variado e eentrega de marmitas comerciais. <br/>
-</p>
+Este repositório é exclusivo para testes e armazenamento de códigos avulsos.
+Aqui você encontrará linguagens Web e Mobile, para fins de estudo, que nâo foram concluídas e nâo estão num repositório próprio. 🛠️
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## 📑 Estrutura do Repositório
 
+- **Código Avulso:** Scripts e snippets de código para referência rápida.
+- **Testes:** Exemplos e protótipos para testar novas ideias.
+
+## 🚀 Tecnologias Utilizadas
+
+- **Linguagens:** Diversas linguagens de programação, conforme necessário.
+- **Ferramentas:** Diferentes ferramentas e bibliotecas para suporte ao desenvolvimento.
+
+## 📜 Licença
+
+Sinta-se à vontade para explorar e contribuir! 
+
+---
+
+Feito com ❤️ por andrvss.
+```
